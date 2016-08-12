@@ -28,5 +28,4 @@ if [ "$1" = 'couchdb' ]; then
   exec gosu couchdb "$@"
 fi
 exec "$@"
-#testing
-##dsgdg
+
