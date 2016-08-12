@@ -29,4 +29,4 @@ if [ "$1" = 'couchdb' ]; then
 fi
 exec "$@"
 
-##sjdhb
+
